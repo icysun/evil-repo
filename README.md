@@ -19,3 +19,7 @@ asd
 [citelol]: (javascript:prompt(document.cookie))
 
 ![3030 chrome crashy-crashy](%%30%30)
+
+
+
+[aaaa</a><script>alert(1)</script>](javascript:alert(1))
